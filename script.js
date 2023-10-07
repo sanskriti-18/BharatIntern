@@ -1,8 +1,3 @@
-/*-- Bharat Intern Internship --*/
-/*-- Domain Name -  Web Development --*/
-/*-- Task - 2(Temperature Converter) --*/
-/*-- Intern Name - Soumalya Bhattacharyya --*/
-
 let celciusInput = document.querySelector('#celcius > input')
 let fahrenheitInput = document.querySelector('#fahrenheit > input')
 let kelvinInput = document.querySelector('#kelvin > input')
